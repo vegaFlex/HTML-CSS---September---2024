@@ -1,0 +1,16 @@
+/* body {
+    background: red;
+} */
+
+.header {
+    text-decoration: underline;
+}
+
+#header {
+    background: firebrick;
+    color: #fff;
+}
+
+h1, h2, h3 {
+    font-weight: normal;
+}
